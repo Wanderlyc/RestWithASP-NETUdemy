@@ -1,0 +1,19 @@
+{
+  "FilePath": "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "RestWithASPNETUdemy",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

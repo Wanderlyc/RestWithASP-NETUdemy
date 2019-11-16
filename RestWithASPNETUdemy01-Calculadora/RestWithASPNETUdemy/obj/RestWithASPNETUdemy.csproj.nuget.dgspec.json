@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj": {}
+  },
+  "projects": {
+    "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj",
+        "projectName": "RestWithASPNETUdemy",
+        "projectPath": "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/wanderly/RestWithASP-NETUdemy/RestWithASPNETUdemy01-Calculadora/RestWithASPNETUdemy/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
